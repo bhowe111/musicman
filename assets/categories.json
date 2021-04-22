@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "5f15d545f3a046427a1c26e2"
+    },
+    "name": "Accessories",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "name": "Instruments",
+    "__v": 0
+  }
+]

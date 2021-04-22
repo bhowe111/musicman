@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {
+      "$oid": "606df66bb2336f05fc8db47e"
+    },
+    "image": "http://assets.stickpng.com/thumbs/585aa8d74f6ae202fedf290b.png",
+    "brand": "Fender",
+    "price": 1200,
+    "rating": 5,
+    "numReviews": 4,
+    "isFeatured": true,
+    "name": "Fender Jaguar",
+    "description": "Sunburst Electric Guitar",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 12,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15d964e520d44421ed8e9c"
+    },
+    "image": "http://assets.stickpng.com/thumbs/58a99704c85cc42c9221c515.png",
+    "brand": "Roland",
+    "price": 700,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Digital Keyboard",
+    "description": "16 different tone settings, weighted keys",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15d9b3e520d44421ed8e9d"
+    },
+    "image": "http://assets.stickpng.com/thumbs/580b585b2edbce24c47b28ac.png",
+    "brand": "Suzuki",
+    "price": 480,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Alto Saxophone",
+    "description": "Play like Sonny Rollins",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 5,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15da13e520d44421ed8e9e"
+    },
+    "image": "http://assets.stickpng.com/thumbs/5a9d5c279fc609199d0ff0cc.png",
+    "brand": "Tama",
+    "price": 2000,
+    "rating": 4,
+    "numReviews": null,
+    "isFeatured": true,
+    "name": "Drum Kit",
+    "description": "Full drum kit with stool",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15d92ee520d44421ed8e9b"
+    },
+    "image": "http://assets.stickpng.com/thumbs/585aa89e4f6ae202fedf2909.png",
+    "brand": "Ibanez",
+    "price": 900,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "1970 Vintage Ibanez Guitar",
+    "description": "Original parts",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6070b28a49703d8f5b0ec5df"
+    },
+    "image": "http://assets.stickpng.com/thumbs/5aa0fa439fc609199d0ff1a4.png",
+    "brand": "Yamaha",
+    "price": 500,
+    "rating": 3,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Yamaha Violin",
+    "description": "case included",
+    "category": {
+      "$oid": "606dfb2ab2336f05fc8db47f"
+    },
+    "countInStock": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "606e0555b2336f05fc8db483"
+    },
+    "image": "http://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bfba.png",
+    "brand": "Beats by Dre",
+    "price": 100,
+    "rating": 3,
+    "numReviews": 1,
+    "isFeatured": true,
+    "name": "Beats Headphones",
+    "description": "Pink wireless headphones",
+    "category": {
+      "$oid": "5f15d545f3a046427a1c26e1"
+    },
+    "countInStock": 400,
+    "__v": 0
+  }
+]
