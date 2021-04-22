@@ -2,7 +2,7 @@ import { Platform } from "react-native";
 
 // let baseURL = "https://musicman-backend.herokuapp.com/";
 
-let baseURL = "";
+let baseURL = "http://localhost:3000/api/v1/";
 
 {
   Platform.OS == "android"

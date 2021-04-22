@@ -120,7 +120,7 @@
     "name": "Beats Headphones",
     "description": "Pink wireless headphones",
     "category": {
-      "$oid": "5f15d545f3a046427a1c26e1"
+      "$oid": "5f15d545f3a046427a1c26e2"
     },
     "countInStock": 400,
     "__v": 0
