@@ -1,0 +1,12 @@
+{
+  "name": "musicman",
+  "displayName": "musicman",
+  "expo": {
+    "name": "musicman",
+    "slug": "musicman",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
